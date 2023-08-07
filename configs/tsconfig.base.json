@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "allowJs": true,
+    "target": "ES2017",
+
+    "strictNullChecks": true,
+    "noEmitOnError": false,
+    "allowUnreachableCode": false,
+    "noImplicitAny": true,
+  }
+}

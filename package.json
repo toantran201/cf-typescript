@@ -1,0 +1,14 @@
+{
+  "name": "helloworld-ts",
+  "version": "0.1.0",
+  "description": "Hello world, TypeScript",
+  "scripts": {
+    "dev": "tsc && tsc-alias"
+  },
+  "author": "toantran201",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc-alias": "^1.8.7",
+    "typescript": "^5.1.6"
+  }
+}
